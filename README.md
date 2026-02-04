@@ -43,4 +43,4 @@ Geni utilizes a high-speed pipeline to monitor and respond to emergencies in sub
 ## 👨‍💻 Developed By
 **Ugonna Victor Emeka-Inegbu** *Electrical Engineering Student @ Central Michigan University* *Aspiring Robotics Engineer*
 
-[LinkedIn](https://www.linkedin.com/in/ugonna-inegbu) | [Portfolio](https://github.com/HackUgo)
+[LinkedIn](www.linkedin.com/in/ugoemeka)
