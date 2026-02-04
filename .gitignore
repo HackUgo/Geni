@@ -1,0 +1,8 @@
+# Secret Keys
+.env
+voice.mp3
+emergency_voice.mp3
+
+# Python Folders
+__pycache__/
+*.pyc
